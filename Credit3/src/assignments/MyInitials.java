@@ -33,7 +33,7 @@ public class MyInitials
 				+ "|                             |\n"
 				+ "|                             |\n"
 				+ "_________________ _____________"
-				);//prints the letters and the \n makes it print on the next line
+				);//prints the letters and the \n makes it print on the next line.
 
 	}
 

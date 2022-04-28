@@ -13,7 +13,7 @@ public class Bingo
 				+ "5  18 free 53  67\n"
 				+ "12 16  31  46  75\n"
 				+ "10 22  39  59  71"
-				); // Prints Bingo Card
+				); // Prints Bingo Card.
 
 	}
 

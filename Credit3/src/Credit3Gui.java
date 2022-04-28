@@ -29,7 +29,7 @@ public class Credit3Gui {
 			}
 		});
 	}
-
+//how u doing
 	/**
 	 * Create the application.
 	 */
