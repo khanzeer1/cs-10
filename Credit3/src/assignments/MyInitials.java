@@ -18,7 +18,8 @@ public class MyInitials
 				+ "|               |               |\n"
 				+ "|               |               |\n"
 				+ "_________________   _____________"
-				);
+				);//prints the letters and the \n makes it print on the next line
+
 		System.out.println(
 				" _______________   _____________\n"
 				+ "|                 |\n"
@@ -32,7 +33,7 @@ public class MyInitials
 				+ "|                             |\n"
 				+ "|                             |\n"
 				+ "_________________ _____________"
-				);
+				);//prints the letters and the \n makes it print on the next line
 
 	}
 
