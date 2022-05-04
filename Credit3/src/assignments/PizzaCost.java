@@ -1,5 +1,15 @@
 package assignments;
+/*
 
+Program: FromMeToYou.java          Date: 4/11/2022
+
+
+Author: Owais Saad
+School: CHHS
+Course: Computer Science 10
+ 
+
+*/
 import java.util.Scanner;
 
 public class PizzaCost 
@@ -16,5 +26,9 @@ public class PizzaCost
 		
 
 	}
-
+/*
+Enter the diameter of the pizza in inches: 
+10
+The cost of making the pizza is: 6.75
+*/
 }

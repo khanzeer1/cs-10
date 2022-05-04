@@ -1,5 +1,15 @@
 package assignments;
+/*
 
+Program: FromMeToYou.java          Date: 4/11/2022
+
+
+Author: Owais Saad
+School: CHHS
+Course: Computer Science 10
+ 
+
+*/
 public class MyInitials 
 {
 
@@ -36,5 +46,30 @@ public class MyInitials
 				);//prints the letters and the \n makes it print on the next line.
 
 	}
-
+/*
+  _______________   _____________
+|               |   |
+|               |   |
+|               |   |
+|               |   |
+|               |   _____________
+|               |               |
+|               |               |
+|               |               |
+|               |               |
+|               |               |
+_________________   _____________
+ _______________   _____________
+|                 |
+|                 |
+|                 |
+|                 |
+|                 _____________
+|                             |
+|                             |
+|                             |
+|                             |
+|                             |
+_________________ _____________
+*/
 }
