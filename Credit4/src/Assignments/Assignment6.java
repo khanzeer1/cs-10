@@ -22,22 +22,16 @@ Course: Computer Science 10
 		  
 		 System.out.println("What is your first name? ");
 		 String Fname = input.nextLine();//allows user to add input. 
-		       
-		 		  
 		 System.out.println("What is your last name? ");
 		 String Lname = input.nextLine();//allows user to add input.
-		 		  
 		 System.out.println("What grade are you in? ");
 		 int grade = input.nextInt();//allows user to add input.  
 		 input.nextLine();   	  
-		 
 		 System.out.println("What school do you attend? ");
 		 String school = input.nextLine();//allows user to add input.  
-		 		  
 		 System.out.println("What is your favourite hobby? ");
 		 String hobby = input.nextLine();//allows user to add input.  
-		 
-		 System.out.println("Hello, your name is "+Fname+" "+Lname+", you are in Grade "+grade+" at "+school+". Your favourite hobby is "+hobby);//output 
+		 System.out.println("Hello, your name is "+Fname+" "+Lname+", you are in Grade "+grade+" at "+school+". Your favourite hobby is "+hobby);//shows a scentence with all the variables added in. 
 	}
 /*
  What is your first name? 
