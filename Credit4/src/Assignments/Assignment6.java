@@ -1,7 +1,15 @@
 package Assignments;
 /*
 
-Program: assignment6.java          Date: 4/27/2022
+Program: assignment6.java          Date: 5/17/2022
+
+
+Author: Owais Saad
+School: CHHS
+Course: Computer Science 10
+ 
+
+*/
 
 
 Author: Owais Saad

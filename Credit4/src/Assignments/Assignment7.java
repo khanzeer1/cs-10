@@ -1,7 +1,7 @@
 package Assignments;
 /*
 
-Program: assignment7.java          Date: 5/5/2022
+Program: assignment6.java          Date: 5/17/2022
 
 
 Author: Owais Saad
@@ -10,9 +10,10 @@ Course: Computer Science 10
  
 
 */
+
 import java.util.Scanner;//imports scanner
 
-public class Assignment7 
+public class Assignment7
 {
 	public static void main(String[] args) 
 	{
