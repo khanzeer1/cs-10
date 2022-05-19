@@ -12,14 +12,8 @@ Course: Computer Science 10
 */
 
 
-Author: Owais Saad
-School: CHHS
-Course: Computer Science 10
- 
-
-*/
-
-	import java.util.Scanner;//imports scanner function.
+	import java.util.Scanner;//imports scanner function.4
+	
 
 	public class Assignment6 {
 
